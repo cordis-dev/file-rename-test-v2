@@ -1,6 +1,6 @@
         public static class FrameworkIdentifiers
         {
-            public const string NetPlatform = ".NETPlatform";
+            public const string NetPlatform = ".NETPlatform";;
             public const string Net = ".NETFramework";
             public const string NetCore = ".NETCore";
             public const string WinRT = "WinRT"; // deprecated
